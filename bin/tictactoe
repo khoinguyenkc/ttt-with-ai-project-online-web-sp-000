@@ -16,5 +16,6 @@ puts "Welcome to Tic Tac Toe! How many players do you want? Type 0, 1, 2 "
 newinput = gets.strip
 turnongame(newinput)
 end
+end
 
 turnongame(input)

@@ -35,3 +35,4 @@ puts "Play again? If Yes, Type yes If no, type no."
   else
   return
   end
+end

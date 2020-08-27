@@ -12,19 +12,19 @@
 # opening()
 # end
 # end
-# 
-# 
+#
+#
 # def opening
 # puts "Welcome to Tic Tac Toe! How many players do you want? Type 0, 1, 2 "
 # input = gets.strip
 # turnongame(input)
 # askforreplay()
 # end
-# 
+#
 # opening()
-# 
-# 
-# 
+#
+#
+#
 # def askforreplay
 # puts "Play again? If Yes, Type yes If no, type no."
 #   input = gets.strip
